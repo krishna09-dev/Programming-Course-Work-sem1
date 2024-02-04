@@ -21,7 +21,7 @@ Feel free to explore the code for each question to understand the application of
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/Programming-Course-Work-sem1.git
+   git clone https://github.com/krishna09-dev/Programming-Course-Work-sem1.git
 2. Explore the code for each question in your preferred Java IDE.
 3. Learn and understand the application of OOP concepts in each scenario.
 
