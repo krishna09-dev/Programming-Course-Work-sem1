@@ -13,10 +13,11 @@ The repository is organized based on the questions provided during the semester.
 Feel free to explore the code for each question to understand the application of OOP concepts. If you are a fellow student or anyone interested in learning Java and OOP, you may find the code examples helpful for reference and learning.
 
 ## Questions
-[![PDF](./question.png)](./CS4001NIProgrammingY23AutumnMainSitCW1QP_82860.pdf)
+<a href="./CS4001NIProgrammingY23AutumnMainSitCW1QP_82860.pdf">
+  <img src="./question.png" alt="PDF" width="100" height="100">
+</a>
 
-
-### How to Use
+## How to Use
 
 1. Clone the repository to your local machine:
    ```bash
